@@ -30,7 +30,7 @@
   width: 100%;
   height: 0.49rem;
   border-top: 1px solid #f1f1f1;
-  background-color: #09f;
+  // background-color: #09f;
 &__item {
   flex: 1;
   text-align: center;
